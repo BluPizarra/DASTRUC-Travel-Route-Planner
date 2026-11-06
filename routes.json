@@ -1,0 +1,1 @@
+{"Manila": [["Quezon City", 10.0], ["Taguig", 20.0]], "Quezon City": [["Manila", 10.0], ["Makati", 8.0]], "Makati": [["Quezon City", 8.0], ["Taguig", 5.0]], "Taguig": [["Makati", 5.0], ["Manila", 20.0]]}
