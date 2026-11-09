@@ -7,7 +7,7 @@ Developed by **Bludylan Cyrus A. Pizarra** for the **Data Structures and Algorit
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Adjacency List Graph Representation**: Dynamically model locations (vertices) and bidirectional roads with weights/distances (edges).
 - **Dijkstra's Algorithm with Priority Queue**: Computes the optimal, lowest-distance route between any two locations using Python's `heapq` module ($O((V + E) \log V)$ time complexity).
@@ -16,7 +16,7 @@ Developed by **Bludylan Cyrus A. Pizarra** for the **Data Structures and Algorit
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 DASTRUC-Travel-Route-Planner/
@@ -29,7 +29,7 @@ DASTRUC-Travel-Route-Planner/
 
 ---
 
-## 🛠️ Requirements & Setup
+## Requirements & Setup
 
 - **Python 3.7+**
 - No external packages required (uses Python standard library: `json`, `heapq`).
@@ -48,7 +48,7 @@ python travel_route_planner.py
 
 ---
 
-## 📖 How It Works
+## How It Works
 
 ### Menu Options
 1. **Add Location**: Register a new location/node in the graph.
@@ -73,7 +73,7 @@ Finding the shortest path from **Manila** to **Taguig**:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Bludylan Cyrus A. Pizarra**  
 GitHub: [@BluPizarra](https://github.com/BluPizarra)
