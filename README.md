@@ -1,5 +1,11 @@
 # Travel Route Planner (DASTRUC Final Task)
 
+[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Algorithm](https://img.shields.io/badge/Algorithm-Dijkstra's%20Shortest%20Path-4B8BBE?style=for-the-badge)](https://github.com/BluPizarra/DASTRUC-Travel-Route-Planner)
+[![Data Structure](https://img.shields.io/badge/Data%20Structure-Weighted%20Graph-FFD43B?style=for-the-badge&logoColor=black)](https://github.com/BluPizarra/DASTRUC-Travel-Route-Planner)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Academic](https://img.shields.io/badge/APC-DASTRUC%20Final%20Task-B3665B?style=for-the-badge)](https://www.apc.edu.ph/)
+
 An interactive CLI-based route navigation system in Python demonstrating graph data structures and shortest-path calculation using **Dijkstra's Algorithm**.
 
 Developed by **Bludylan Cyrus A. Pizarra** for the **Data Structures and Algorithms (DASTRUC)** course final requirement:
